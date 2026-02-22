@@ -129,7 +129,9 @@ python scripts/simple_job.py
 📷 Screenshot:
 
 ```
+
 ![Spark Session](evidence/spark_session.png)
+
 ```
 
 Deskripsi:
@@ -142,7 +144,9 @@ SparkSession berhasil dijalankan tanpa error.
 📷 Screenshot:
 
 ```
+
 ![MongoDB Cluster](evidence/mongo_cluster.png)
+
 ```
 
 Deskripsi:
@@ -169,7 +173,9 @@ https://github.com/munaarch/bigdata-project
 📷 Screenshot:
 
 ```
+
 ![Simple Job Code](evidence/simple_job_code.png)
+
 ```
 
 Deskripsi:
@@ -182,7 +188,9 @@ Script Spark Job berhasil dibuat sesuai modul.
 📷 Screenshot:
 
 ```
+
 ![Spark Output](evidence/spark_output.png)
+
 ```
 
 Contoh Output:
