@@ -142,7 +142,7 @@ SparkSession berhasil dijalankan tanpa error.
 📷 Screenshot:
 
 ```
-[Tempel screenshot MongoDB Atlas cluster ACTIVE]![MongoDB Cluster](evidence/mongo_cluster.png)
+![MongoDB Cluster](evidence/mongo_cluster.png)
 ```
 
 Deskripsi:
